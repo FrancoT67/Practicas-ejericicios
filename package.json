@@ -1,0 +1,15 @@
+{
+  "name": "ejercicios-21-09-2022",
+  "version": "1.0.0",
+  "description": "ejercicios de practica de algoritmos",
+  "main": "ejercicioBanco.js",
+  "scripts": {
+    "piramide": "nodemon ejercicioPiramide.js",
+    "banco":"nodemon ejercicioBanco.js"
+  },
+  "author": "Franco Toledo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
