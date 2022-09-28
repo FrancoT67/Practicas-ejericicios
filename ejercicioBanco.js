@@ -35,5 +35,5 @@ function comprobarDinero(a){
         
 }
 
-let valor=221
+let valor=220
 console.log(comprobarDinero(valor))

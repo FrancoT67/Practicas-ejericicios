@@ -23,4 +23,4 @@ function piramide(x){
     }
 }
 
-piramide(10)
+piramide(8)
