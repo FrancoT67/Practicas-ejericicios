@@ -5,11 +5,11 @@
   "main": "ejercicioBanco.js",
   "scripts": {
     "piramide": "nodemon ejercicioPiramide.js",
-    "banco":"nodemon ejercicioBanco.js"
+    "banco": "nodemon ejercicioBanco.js"
   },
   "author": "Franco Toledo",
   "license": "ISC",
-  "devDependencies": {
+  "Dependencies": {
     "nodemon": "^2.0.20"
   }
 }
